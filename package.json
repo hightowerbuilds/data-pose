@@ -1,0 +1,35 @@
+{
+  "name": "numbers-and-music-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --port 3000",
+    "start": "vite --port 3000",
+    "build": "vite build && tsc",
+    "serve": "vite preview",
+    "lint": "eslint",
+    "format": "prettier",
+    "check": "prettier --write . && eslint --fix",
+    "generate-mock-data": "tsx scripts/generateMockData.ts"
+  },
+  "dependencies": {
+    "@tanstack/react-router": "^1.120.12",
+    "@tanstack/router-plugin": "^1.120.12",
+    "@types/d3": "^7.4.3",
+    "d3": "^7.8.5",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.27",
+    "@types/react": "^19.0.8",
+    "@types/react-dom": "^19.0.3",
+    "@vitejs/plugin-react": "^4.5.0",
+    "prettier": "^3.5.3",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.19.4",
+    "typescript": "^5.7.2",
+    "vite": "^6.1.0"
+  }
+}

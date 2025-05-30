@@ -1,0 +1,1206 @@
+{
+  "startingBalance": 10000,
+  "transactions": [
+    {
+      "id": "txn_1",
+      "date": "2025-04-01",
+      "amount": 73.15,
+      "balance": 9926.85,
+      "description": "Education",
+      "type": "debit"
+    },
+    {
+      "id": "txn_2",
+      "date": "2025-04-02",
+      "amount": 45.53,
+      "balance": 9881.32,
+      "description": "ATM Withdrawal",
+      "type": "debit"
+    },
+    {
+      "id": "txn_3",
+      "date": "2025-04-02",
+      "amount": 63.85,
+      "balance": 9817.47,
+      "description": "Phone Bill",
+      "type": "debit"
+    },
+    {
+      "id": "txn_4",
+      "date": "2025-04-02",
+      "amount": 87.39,
+      "balance": 9730.08,
+      "description": "Gift",
+      "type": "debit"
+    },
+    {
+      "id": "txn_5",
+      "date": "2025-04-03",
+      "amount": 68.97,
+      "balance": 9661.11,
+      "description": "ATM Withdrawal",
+      "type": "debit"
+    },
+    {
+      "id": "txn_6",
+      "date": "2025-04-03",
+      "amount": 152.34,
+      "balance": 9508.77,
+      "description": "Subscription",
+      "type": "debit"
+    },
+    {
+      "id": "txn_7",
+      "date": "2025-04-03",
+      "amount": 121.07,
+      "balance": 9387.7,
+      "description": "Entertainment",
+      "type": "debit"
+    },
+    {
+      "id": "txn_8",
+      "date": "2025-04-04",
+      "amount": 65.25,
+      "balance": 9322.45,
+      "description": "Rent Payment",
+      "type": "debit"
+    },
+    {
+      "id": "txn_9",
+      "date": "2025-04-04",
+      "amount": 171.4,
+      "balance": 9151.05,
+      "description": "Gift",
+      "type": "debit"
+    },
+    {
+      "id": "txn_10",
+      "date": "2025-04-04",
+      "amount": 199.45,
+      "balance": 8951.6,
+      "description": "Grocery Store",
+      "type": "debit"
+    },
+    {
+      "id": "txn_11",
+      "date": "2025-04-04",
+      "amount": 60.07,
+      "balance": 8891.53,
+      "description": "Subscription",
+      "type": "debit"
+    },
+    {
+      "id": "txn_12",
+      "date": "2025-04-05",
+      "amount": 43.12,
+      "balance": 8848.41,
+      "description": "Coffee Shop",
+      "type": "debit"
+    },
+    {
+      "id": "txn_13",
+      "date": "2025-04-05",
+      "amount": 20.24,
+      "balance": 8828.17,
+      "description": "Rent Payment",
+      "type": "debit"
+    },
+    {
+      "id": "txn_14",
+      "date": "2025-04-05",
+      "amount": 171.66,
+      "balance": 8656.51,
+      "description": "Insurance",
+      "type": "debit"
+    },
+    {
+      "id": "txn_15",
+      "date": "2025-04-06",
+      "amount": 190.74,
+      "balance": 8465.77,
+      "description": "Rent Payment",
+      "type": "debit"
+    },
+    {
+      "id": "txn_16",
+      "date": "2025-04-07",
+      "amount": 166.9,
+      "balance": 8298.87,
+      "description": "Phone Bill",
+      "type": "debit"
+    },
+    {
+      "id": "txn_17",
+      "date": "2025-04-07",
+      "amount": 158.92,
+      "balance": 8139.95,
+      "description": "Investment",
+      "type": "debit"
+    },
+    {
+      "id": "txn_18",
+      "date": "2025-04-07",
+      "amount": 147.44,
+      "balance": 7992.51,
+      "description": "Gift",
+      "type": "debit"
+    },
+    {
+      "id": "txn_19",
+      "date": "2025-04-08",
+      "amount": 199.16,
+      "balance": 7793.35,
+      "description": "Entertainment",
+      "type": "debit"
+    },
+    {
+      "id": "txn_20",
+      "date": "2025-04-08",
+      "amount": 27.18,
+      "balance": 7766.17,
+      "description": "Grocery Store",
+      "type": "debit"
+    },
+    {
+      "id": "txn_21",
+      "date": "2025-04-09",
+      "amount": 108.36,
+      "balance": 7657.81,
+      "description": "Gift",
+      "type": "debit"
+    },
+    {
+      "id": "txn_22",
+      "date": "2025-04-09",
+      "amount": 131,
+      "balance": 7526.81,
+      "description": "Transfer",
+      "type": "debit"
+    },
+    {
+      "id": "txn_23",
+      "date": "2025-04-10",
+      "amount": 77.81,
+      "balance": 7449,
+      "description": "ATM Withdrawal",
+      "type": "debit"
+    },
+    {
+      "id": "txn_24",
+      "date": "2025-04-11",
+      "amount": 162.38,
+      "balance": 7286.62,
+      "description": "Subscription",
+      "type": "debit"
+    },
+    {
+      "id": "txn_25",
+      "date": "2025-04-11",
+      "amount": 111.7,
+      "balance": 7174.92,
+      "description": "Gift",
+      "type": "debit"
+    },
+    {
+      "id": "txn_26",
+      "date": "2025-04-12",
+      "amount": 91.36,
+      "balance": 7083.56,
+      "description": "Salary Deposit",
+      "type": "debit"
+    },
+    {
+      "id": "txn_27",
+      "date": "2025-04-13",
+      "amount": 181.64,
+      "balance": 6901.92,
+      "description": "Internet Bill",
+      "type": "debit"
+    },
+    {
+      "id": "txn_28",
+      "date": "2025-04-13",
+      "amount": 198.64,
+      "balance": 6703.28,
+      "description": "Insurance",
+      "type": "debit"
+    },
+    {
+      "id": "txn_29",
+      "date": "2025-04-14",
+      "amount": 172.3,
+      "balance": 6530.98,
+      "description": "Insurance",
+      "type": "debit"
+    },
+    {
+      "id": "txn_30",
+      "date": "2025-04-16",
+      "amount": 62.91,
+      "balance": 6468.07,
+      "description": "Rent Payment",
+      "type": "debit"
+    },
+    {
+      "id": "txn_31",
+      "date": "2025-04-17",
+      "amount": 162.73,
+      "balance": 6305.34,
+      "description": "Phone Bill",
+      "type": "debit"
+    },
+    {
+      "id": "txn_32",
+      "date": "2025-04-17",
+      "amount": 13.88,
+      "balance": 6291.46,
+      "description": "Gift",
+      "type": "debit"
+    },
+    {
+      "id": "txn_33",
+      "date": "2025-04-18",
+      "amount": 48.31,
+      "balance": 6243.15,
+      "description": "Entertainment",
+      "type": "debit"
+    },
+    {
+      "id": "txn_34",
+      "date": "2025-04-19",
+      "amount": 29.36,
+      "balance": 6213.79,
+      "description": "Salary Deposit",
+      "type": "debit"
+    },
+    {
+      "id": "txn_35",
+      "date": "2025-04-19",
+      "amount": 138.89,
+      "balance": 6074.9,
+      "description": "Healthcare",
+      "type": "debit"
+    },
+    {
+      "id": "txn_36",
+      "date": "2025-04-20",
+      "amount": 178.69,
+      "balance": 5896.21,
+      "description": "Healthcare",
+      "type": "debit"
+    },
+    {
+      "id": "txn_37",
+      "date": "2025-04-20",
+      "amount": 133.68,
+      "balance": 5762.53,
+      "description": "Rent Payment",
+      "type": "debit"
+    },
+    {
+      "id": "txn_38",
+      "date": "2025-04-20",
+      "amount": 34.33,
+      "balance": 5728.2,
+      "description": "Grocery Store",
+      "type": "debit"
+    },
+    {
+      "id": "txn_39",
+      "date": "2025-04-20",
+      "amount": 17.42,
+      "balance": 5710.78,
+      "description": "Subscription",
+      "type": "debit"
+    },
+    {
+      "id": "txn_40",
+      "date": "2025-04-21",
+      "amount": 76.91,
+      "balance": 5633.87,
+      "description": "Restaurant",
+      "type": "debit"
+    },
+    {
+      "id": "txn_41",
+      "date": "2025-04-22",
+      "amount": 132.26,
+      "balance": 5501.61,
+      "description": "Internet Bill",
+      "type": "debit"
+    },
+    {
+      "id": "txn_42",
+      "date": "2025-04-22",
+      "amount": 125.87,
+      "balance": 5375.74,
+      "description": "Salary Deposit",
+      "type": "debit"
+    },
+    {
+      "id": "txn_43",
+      "date": "2025-04-23",
+      "amount": 13.32,
+      "balance": 5362.42,
+      "description": "Education",
+      "type": "debit"
+    },
+    {
+      "id": "txn_44",
+      "date": "2025-04-23",
+      "amount": 113.99,
+      "balance": 5248.43,
+      "description": "Insurance",
+      "type": "debit"
+    },
+    {
+      "id": "txn_45",
+      "date": "2025-04-23",
+      "amount": 157.2,
+      "balance": 5091.23,
+      "description": "Gift",
+      "type": "debit"
+    },
+    {
+      "id": "txn_46",
+      "date": "2025-04-23",
+      "amount": 18.86,
+      "balance": 5072.37,
+      "description": "Gift",
+      "type": "debit"
+    },
+    {
+      "id": "txn_47",
+      "date": "2025-04-23",
+      "amount": 90.4,
+      "balance": 4981.97,
+      "description": "Grocery Store",
+      "type": "debit"
+    },
+    {
+      "id": "txn_48",
+      "date": "2025-04-23",
+      "amount": 47.4,
+      "balance": 4934.57,
+      "description": "Online Shopping",
+      "type": "debit"
+    },
+    {
+      "id": "txn_49",
+      "date": "2025-04-24",
+      "amount": 117.06,
+      "balance": 4817.51,
+      "description": "Investment",
+      "type": "debit"
+    },
+    {
+      "id": "txn_50",
+      "date": "2025-04-24",
+      "amount": 142.06,
+      "balance": 4675.45,
+      "description": "Salary Deposit",
+      "type": "debit"
+    },
+    {
+      "id": "txn_51",
+      "date": "2025-04-24",
+      "amount": 56.43,
+      "balance": 4619.02,
+      "description": "Transportation",
+      "type": "debit"
+    },
+    {
+      "id": "txn_52",
+      "date": "2025-04-24",
+      "amount": 121.96,
+      "balance": 4497.06,
+      "description": "Insurance",
+      "type": "debit"
+    },
+    {
+      "id": "txn_53",
+      "date": "2025-04-24",
+      "amount": 149.53,
+      "balance": 4347.53,
+      "description": "Subscription",
+      "type": "debit"
+    },
+    {
+      "id": "txn_54",
+      "date": "2025-04-25",
+      "amount": 112.09,
+      "balance": 4235.44,
+      "description": "Coffee Shop",
+      "type": "debit"
+    },
+    {
+      "id": "txn_55",
+      "date": "2025-04-25",
+      "amount": 30.39,
+      "balance": 4205.05,
+      "description": "Internet Bill",
+      "type": "debit"
+    },
+    {
+      "id": "txn_56",
+      "date": "2025-04-25",
+      "amount": 21.98,
+      "balance": 4183.07,
+      "description": "Transportation",
+      "type": "debit"
+    },
+    {
+      "id": "txn_57",
+      "date": "2025-04-27",
+      "amount": 180.78,
+      "balance": 4002.29,
+      "description": "Entertainment",
+      "type": "debit"
+    },
+    {
+      "id": "txn_58",
+      "date": "2025-04-27",
+      "amount": 117.64,
+      "balance": 3884.65,
+      "description": "Gas Station",
+      "type": "debit"
+    },
+    {
+      "id": "txn_59",
+      "date": "2025-04-28",
+      "amount": 70.37,
+      "balance": 3814.28,
+      "description": "Investment",
+      "type": "debit"
+    },
+    {
+      "id": "txn_60",
+      "date": "2025-04-28",
+      "amount": 50.13,
+      "balance": 3764.15,
+      "description": "ATM Withdrawal",
+      "type": "debit"
+    },
+    {
+      "id": "txn_61",
+      "date": "2025-04-29",
+      "amount": 57.02,
+      "balance": 3707.13,
+      "description": "Healthcare",
+      "type": "debit"
+    },
+    {
+      "id": "txn_62",
+      "date": "2025-04-29",
+      "amount": 126.71,
+      "balance": 3580.42,
+      "description": "Insurance",
+      "type": "debit"
+    },
+    {
+      "id": "txn_63",
+      "date": "2025-04-29",
+      "amount": 24.7,
+      "balance": 3555.72,
+      "description": "Online Shopping",
+      "type": "debit"
+    },
+    {
+      "id": "txn_64",
+      "date": "2025-04-30",
+      "amount": 24.29,
+      "balance": 3531.43,
+      "description": "Online Shopping",
+      "type": "debit"
+    },
+    {
+      "id": "txn_65",
+      "date": "2025-04-30",
+      "amount": 123.23,
+      "balance": 3408.2,
+      "description": "Phone Bill",
+      "type": "debit"
+    },
+    {
+      "id": "txn_66",
+      "date": "2025-04-30",
+      "amount": 198.78,
+      "balance": 3209.42,
+      "description": "Rent Payment",
+      "type": "debit"
+    },
+    {
+      "id": "txn_67",
+      "date": "2025-05-01",
+      "amount": 175.66,
+      "balance": 3033.76,
+      "description": "Healthcare",
+      "type": "debit"
+    },
+    {
+      "id": "txn_68",
+      "date": "2025-05-01",
+      "amount": 146.73,
+      "balance": 2887.03,
+      "description": "Phone Bill",
+      "type": "debit"
+    },
+    {
+      "id": "txn_69",
+      "date": "2025-05-01",
+      "amount": 65.24,
+      "balance": 2821.79,
+      "description": "Entertainment",
+      "type": "debit"
+    },
+    {
+      "id": "txn_70",
+      "date": "2025-05-01",
+      "amount": 22.21,
+      "balance": 2799.58,
+      "description": "Utility Bill",
+      "type": "debit"
+    },
+    {
+      "id": "txn_71",
+      "date": "2025-05-01",
+      "amount": 171.63,
+      "balance": 2627.95,
+      "description": "Education",
+      "type": "debit"
+    },
+    {
+      "id": "txn_72",
+      "date": "2025-05-02",
+      "amount": 109.96,
+      "balance": 2517.99,
+      "description": "Salary Deposit",
+      "type": "debit"
+    },
+    {
+      "id": "txn_73",
+      "date": "2025-05-02",
+      "amount": 94.78,
+      "balance": 2423.21,
+      "description": "Gift",
+      "type": "debit"
+    },
+    {
+      "id": "txn_74",
+      "date": "2025-05-02",
+      "amount": 80.96,
+      "balance": 2342.25,
+      "description": "Grocery Store",
+      "type": "debit"
+    },
+    {
+      "id": "txn_75",
+      "date": "2025-05-02",
+      "amount": 79.22,
+      "balance": 2263.03,
+      "description": "Insurance",
+      "type": "debit"
+    },
+    {
+      "id": "txn_76",
+      "date": "2025-05-02",
+      "amount": 48.28,
+      "balance": 2214.75,
+      "description": "Education",
+      "type": "debit"
+    },
+    {
+      "id": "txn_77",
+      "date": "2025-05-02",
+      "amount": 55.24,
+      "balance": 2159.51,
+      "description": "ATM Withdrawal",
+      "type": "debit"
+    },
+    {
+      "id": "txn_78",
+      "date": "2025-05-02",
+      "amount": 84.89,
+      "balance": 2074.62,
+      "description": "Salary Deposit",
+      "type": "debit"
+    },
+    {
+      "id": "txn_79",
+      "date": "2025-05-02",
+      "amount": 181.92,
+      "balance": 1892.7,
+      "description": "Utility Bill",
+      "type": "debit"
+    },
+    {
+      "id": "txn_80",
+      "date": "2025-05-02",
+      "amount": 150.72,
+      "balance": 1741.98,
+      "description": "Investment",
+      "type": "debit"
+    },
+    {
+      "id": "txn_81",
+      "date": "2025-05-02",
+      "amount": 84.71,
+      "balance": 1657.27,
+      "description": "Healthcare",
+      "type": "debit"
+    },
+    {
+      "id": "txn_82",
+      "date": "2025-05-02",
+      "amount": 52.37,
+      "balance": 1604.9,
+      "description": "Healthcare",
+      "type": "debit"
+    },
+    {
+      "id": "txn_83",
+      "date": "2025-05-02",
+      "amount": 147.14,
+      "balance": 1457.76,
+      "description": "Internet Bill",
+      "type": "debit"
+    },
+    {
+      "id": "txn_84",
+      "date": "2025-05-03",
+      "amount": 149.91,
+      "balance": 1307.85,
+      "description": "Transportation",
+      "type": "debit"
+    },
+    {
+      "id": "txn_85",
+      "date": "2025-05-03",
+      "amount": 99.1,
+      "balance": 1208.75,
+      "description": "Subscription",
+      "type": "debit"
+    },
+    {
+      "id": "txn_86",
+      "date": "2025-05-03",
+      "amount": 179.17,
+      "balance": 1029.58,
+      "description": "Healthcare",
+      "type": "debit"
+    },
+    {
+      "id": "txn_87",
+      "date": "2025-05-03",
+      "amount": 95.72,
+      "balance": 933.86,
+      "description": "Grocery Store",
+      "type": "debit"
+    },
+    {
+      "id": "txn_88",
+      "date": "2025-05-04",
+      "amount": 88.65,
+      "balance": 845.21,
+      "description": "Online Shopping",
+      "type": "debit"
+    },
+    {
+      "id": "txn_89",
+      "date": "2025-05-05",
+      "amount": 26.19,
+      "balance": 819.02,
+      "description": "Gas Station",
+      "type": "debit"
+    },
+    {
+      "id": "txn_90",
+      "date": "2025-05-05",
+      "amount": 39.67,
+      "balance": 779.35,
+      "description": "Salary Deposit",
+      "type": "debit"
+    },
+    {
+      "id": "txn_91",
+      "date": "2025-05-06",
+      "amount": 55.16,
+      "balance": 724.19,
+      "description": "Internet Bill",
+      "type": "debit"
+    },
+    {
+      "id": "txn_92",
+      "date": "2025-05-07",
+      "amount": 77.61,
+      "balance": 646.58,
+      "description": "Insurance",
+      "type": "debit"
+    },
+    {
+      "id": "txn_93",
+      "date": "2025-05-07",
+      "amount": 120.38,
+      "balance": 526.2,
+      "description": "Online Shopping",
+      "type": "debit"
+    },
+    {
+      "id": "txn_94",
+      "date": "2025-05-09",
+      "amount": 14.49,
+      "balance": 511.71,
+      "description": "Rent Payment",
+      "type": "debit"
+    },
+    {
+      "id": "txn_95",
+      "date": "2025-05-09",
+      "amount": 90.86,
+      "balance": 420.85,
+      "description": "Gas Station",
+      "type": "debit"
+    },
+    {
+      "id": "txn_96",
+      "date": "2025-05-09",
+      "amount": 19.74,
+      "balance": 401.11,
+      "description": "Transfer",
+      "type": "debit"
+    },
+    {
+      "id": "txn_97",
+      "date": "2025-05-09",
+      "amount": 16.95,
+      "balance": 384.16,
+      "description": "Transfer",
+      "type": "debit"
+    },
+    {
+      "id": "txn_98",
+      "date": "2025-05-09",
+      "amount": 63.5,
+      "balance": 320.66,
+      "description": "Education",
+      "type": "debit"
+    },
+    {
+      "id": "txn_99",
+      "date": "2025-05-09",
+      "amount": 164.49,
+      "balance": 156.17,
+      "description": "Transportation",
+      "type": "debit"
+    },
+    {
+      "id": "txn_100",
+      "date": "2025-05-09",
+      "amount": 84.55,
+      "balance": 71.62,
+      "description": "Rent Payment",
+      "type": "debit"
+    },
+    {
+      "id": "txn_101",
+      "date": "2025-05-09",
+      "amount": 30.72,
+      "balance": 40.9,
+      "description": "Healthcare",
+      "type": "debit"
+    },
+    {
+      "id": "txn_102",
+      "date": "2025-05-10",
+      "amount": 19.69,
+      "balance": 21.21,
+      "description": "Insurance",
+      "type": "debit"
+    },
+    {
+      "id": "txn_103",
+      "date": "2025-05-10",
+      "amount": 92.91,
+      "balance": -71.7,
+      "description": "Education",
+      "type": "debit"
+    },
+    {
+      "id": "txn_104",
+      "date": "2025-05-10",
+      "amount": 151.57,
+      "balance": -223.27,
+      "description": "ATM Withdrawal",
+      "type": "debit"
+    },
+    {
+      "id": "txn_105",
+      "date": "2025-05-11",
+      "amount": 122.88,
+      "balance": -346.15,
+      "description": "Internet Bill",
+      "type": "debit"
+    },
+    {
+      "id": "txn_106",
+      "date": "2025-05-11",
+      "amount": 176.98,
+      "balance": -523.13,
+      "description": "Investment",
+      "type": "debit"
+    },
+    {
+      "id": "txn_107",
+      "date": "2025-05-11",
+      "amount": 61.27,
+      "balance": -584.4,
+      "description": "Education",
+      "type": "debit"
+    },
+    {
+      "id": "txn_108",
+      "date": "2025-05-12",
+      "amount": 116,
+      "balance": -700.4,
+      "description": "Insurance",
+      "type": "debit"
+    },
+    {
+      "id": "txn_109",
+      "date": "2025-05-12",
+      "amount": 25.01,
+      "balance": -725.41,
+      "description": "Coffee Shop",
+      "type": "debit"
+    },
+    {
+      "id": "txn_110",
+      "date": "2025-05-12",
+      "amount": 64.45,
+      "balance": -789.86,
+      "description": "Transportation",
+      "type": "debit"
+    },
+    {
+      "id": "txn_111",
+      "date": "2025-05-12",
+      "amount": 66.6,
+      "balance": -856.46,
+      "description": "Online Shopping",
+      "type": "debit"
+    },
+    {
+      "id": "txn_112",
+      "date": "2025-05-13",
+      "amount": 68.94,
+      "balance": -925.4,
+      "description": "Transportation",
+      "type": "debit"
+    },
+    {
+      "id": "txn_113",
+      "date": "2025-05-13",
+      "amount": 143.19,
+      "balance": -1068.59,
+      "description": "Phone Bill",
+      "type": "debit"
+    },
+    {
+      "id": "txn_114",
+      "date": "2025-05-14",
+      "amount": 28.57,
+      "balance": -1097.16,
+      "description": "Healthcare",
+      "type": "debit"
+    },
+    {
+      "id": "txn_115",
+      "date": "2025-05-14",
+      "amount": 142,
+      "balance": -1239.16,
+      "description": "Subscription",
+      "type": "debit"
+    },
+    {
+      "id": "txn_116",
+      "date": "2025-05-15",
+      "amount": 124.54,
+      "balance": -1363.7,
+      "description": "Phone Bill",
+      "type": "debit"
+    },
+    {
+      "id": "txn_117",
+      "date": "2025-05-16",
+      "amount": 126.8,
+      "balance": -1490.5,
+      "description": "Salary Deposit",
+      "type": "debit"
+    },
+    {
+      "id": "txn_118",
+      "date": "2025-05-17",
+      "amount": 57.57,
+      "balance": -1548.07,
+      "description": "Utility Bill",
+      "type": "debit"
+    },
+    {
+      "id": "txn_119",
+      "date": "2025-05-17",
+      "amount": 148.25,
+      "balance": -1696.32,
+      "description": "Education",
+      "type": "debit"
+    },
+    {
+      "id": "txn_120",
+      "date": "2025-05-17",
+      "amount": 141.03,
+      "balance": -1837.35,
+      "description": "ATM Withdrawal",
+      "type": "debit"
+    },
+    {
+      "id": "txn_121",
+      "date": "2025-05-17",
+      "amount": 45.84,
+      "balance": -1883.19,
+      "description": "Restaurant",
+      "type": "debit"
+    },
+    {
+      "id": "txn_122",
+      "date": "2025-05-17",
+      "amount": 133.42,
+      "balance": -2016.61,
+      "description": "Salary Deposit",
+      "type": "debit"
+    },
+    {
+      "id": "txn_123",
+      "date": "2025-05-17",
+      "amount": 82.41,
+      "balance": -2099.02,
+      "description": "Insurance",
+      "type": "debit"
+    },
+    {
+      "id": "txn_124",
+      "date": "2025-05-18",
+      "amount": 19.16,
+      "balance": -2118.18,
+      "description": "Healthcare",
+      "type": "debit"
+    },
+    {
+      "id": "txn_125",
+      "date": "2025-05-18",
+      "amount": 89.72,
+      "balance": -2207.9,
+      "description": "Subscription",
+      "type": "debit"
+    },
+    {
+      "id": "txn_126",
+      "date": "2025-05-18",
+      "amount": 165.05,
+      "balance": -2372.95,
+      "description": "Transportation",
+      "type": "debit"
+    },
+    {
+      "id": "txn_127",
+      "date": "2025-05-19",
+      "amount": 173.51,
+      "balance": -2546.46,
+      "description": "Subscription",
+      "type": "debit"
+    },
+    {
+      "id": "txn_128",
+      "date": "2025-05-20",
+      "amount": 188.94,
+      "balance": -2735.4,
+      "description": "Internet Bill",
+      "type": "debit"
+    },
+    {
+      "id": "txn_129",
+      "date": "2025-05-21",
+      "amount": 69.63,
+      "balance": -2805.03,
+      "description": "Online Shopping",
+      "type": "debit"
+    },
+    {
+      "id": "txn_130",
+      "date": "2025-05-21",
+      "amount": 76.56,
+      "balance": -2881.59,
+      "description": "ATM Withdrawal",
+      "type": "debit"
+    },
+    {
+      "id": "txn_131",
+      "date": "2025-05-22",
+      "amount": 14.4,
+      "balance": -2895.99,
+      "description": "Entertainment",
+      "type": "debit"
+    },
+    {
+      "id": "txn_132",
+      "date": "2025-05-23",
+      "amount": 185.82,
+      "balance": -3081.81,
+      "description": "Transportation",
+      "type": "debit"
+    },
+    {
+      "id": "txn_133",
+      "date": "2025-05-23",
+      "amount": 37.49,
+      "balance": -3119.3,
+      "description": "Grocery Store",
+      "type": "debit"
+    },
+    {
+      "id": "txn_134",
+      "date": "2025-05-23",
+      "amount": 17.41,
+      "balance": -3136.71,
+      "description": "Insurance",
+      "type": "debit"
+    },
+    {
+      "id": "txn_135",
+      "date": "2025-05-23",
+      "amount": 92.15,
+      "balance": -3228.86,
+      "description": "Gas Station",
+      "type": "debit"
+    },
+    {
+      "id": "txn_136",
+      "date": "2025-05-23",
+      "amount": 74.54,
+      "balance": -3303.4,
+      "description": "Gift",
+      "type": "debit"
+    },
+    {
+      "id": "txn_137",
+      "date": "2025-05-24",
+      "amount": 89.93,
+      "balance": -3393.33,
+      "description": "Gas Station",
+      "type": "debit"
+    },
+    {
+      "id": "txn_138",
+      "date": "2025-05-24",
+      "amount": 179.83,
+      "balance": -3573.16,
+      "description": "Phone Bill",
+      "type": "debit"
+    },
+    {
+      "id": "txn_139",
+      "date": "2025-05-24",
+      "amount": 163.39,
+      "balance": -3736.55,
+      "description": "Education",
+      "type": "debit"
+    },
+    {
+      "id": "txn_140",
+      "date": "2025-05-25",
+      "amount": 189.18,
+      "balance": -3925.73,
+      "description": "Entertainment",
+      "type": "debit"
+    },
+    {
+      "id": "txn_141",
+      "date": "2025-05-25",
+      "amount": 120.1,
+      "balance": -4045.83,
+      "description": "Grocery Store",
+      "type": "debit"
+    },
+    {
+      "id": "txn_142",
+      "date": "2025-05-26",
+      "amount": 45.3,
+      "balance": -4091.13,
+      "description": "Transfer",
+      "type": "debit"
+    },
+    {
+      "id": "txn_143",
+      "date": "2025-05-26",
+      "amount": 77.01,
+      "balance": -4168.14,
+      "description": "Entertainment",
+      "type": "debit"
+    },
+    {
+      "id": "txn_144",
+      "date": "2025-05-26",
+      "amount": 150.39,
+      "balance": -4318.53,
+      "description": "Healthcare",
+      "type": "debit"
+    },
+    {
+      "id": "txn_145",
+      "date": "2025-05-27",
+      "amount": 184.29,
+      "balance": -4502.82,
+      "description": "Education",
+      "type": "debit"
+    },
+    {
+      "id": "txn_146",
+      "date": "2025-05-28",
+      "amount": 50.89,
+      "balance": -4553.71,
+      "description": "Insurance",
+      "type": "debit"
+    },
+    {
+      "id": "txn_147",
+      "date": "2025-05-28",
+      "amount": 184.28,
+      "balance": -4737.99,
+      "description": "Gift",
+      "type": "debit"
+    },
+    {
+      "id": "txn_148",
+      "date": "2025-05-28",
+      "amount": 104.98,
+      "balance": -4842.97,
+      "description": "Salary Deposit",
+      "type": "debit"
+    },
+    {
+      "id": "txn_149",
+      "date": "2025-05-28",
+      "amount": 152.03,
+      "balance": -4995,
+      "description": "Insurance",
+      "type": "debit"
+    },
+    {
+      "id": "txn_150",
+      "date": "2025-05-29",
+      "amount": 107.89,
+      "balance": -5102.89,
+      "description": "Transportation",
+      "type": "debit"
+    }
+  ],
+  "endingBalance": -5102.89
+}
